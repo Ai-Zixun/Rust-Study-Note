@@ -1,0 +1,1 @@
+/Users/aizixun/Desktop/Rust-Study-Note/part_0-1/target/debug/part_0-1: /Users/aizixun/Desktop/Rust-Study-Note/part_0-1/src/main.rs /Users/aizixun/Desktop/Rust-Study-Note/part_0-1/src/print.rs /Users/aizixun/Desktop/Rust-Study-Note/part_0-1/src/vars.rs
