@@ -1,4 +1,6 @@
 pub fn run() {
+    println!("\n====== PRINT =====\n");
+
     // Print to console
     println!("Hello from the print.rs");
 

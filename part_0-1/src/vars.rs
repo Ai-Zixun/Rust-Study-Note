@@ -3,6 +3,8 @@
 // Rust is a block scoped language
 
 pub fn run() {
+    println!("\n====== VARS =====\n");
+
     let name = "Crusoe";
     let mut age = 10;
 
